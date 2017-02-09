@@ -2,7 +2,7 @@
 
 - Web application which gets the property information for given street, city and state by making a API call to Zillow.
 
-- Server side is developed using PHP by making call to Zillow API. Zillow returns the data in XML and I parse the data and pass it to front end using JSON. Hosted the PHP backend on Amazon Elastic Beanstalk [Cloud web Services] for deploying the application, scaling and monitoring the performance of application.
+- Server side is developed using PHP and makes call to Zillow API. Zillow returns the data in XML and I parse the data and pass it to front end using JSON. Hosted the PHP backend on Amazon Elastic Beanstalk [Cloud web Services] for deploying the application, scaling and monitoring the performance of application.
 
 - Used JQuery AJAX calls to communicate between the front end and the PHP.
 
